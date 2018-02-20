@@ -1,0 +1,6 @@
+#for declaring the variables used in program
+img_rows=200
+img_cols=200
+img_channels=1
+nb_classes=3
+nb_test_images=1
